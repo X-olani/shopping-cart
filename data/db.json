@@ -1,0 +1,66 @@
+{
+    "products": [
+      {"id":1,
+        "title": "Classic White Tee",
+        "price": 19.99,
+        "size": "M",
+        "img":"shirt.svg"
+      },
+      {"id":2,
+        "title": "Black V-Neck",
+        "price": 22.99,
+        "size": "L",
+        "img":"shirt.svg"
+      },
+      {"id":3,
+        "title": "Graphic Print Tee",
+        "price": 25.49,
+        "size": "S",
+        "img":"shirt.svg"
+      },
+      {"id":4,
+        "title": "Heather Grey Crew Neck",
+        "price": 20.99,
+        "size": "XL",
+        "img":"shirt.svg"
+      },
+      {"id":5,
+        "title": "Striped Tee",
+        "price": 18.99,
+        "size": "M",
+        "img":"shirt.svg"
+      },
+      {"id":6,
+        "title": "Long Sleeve Henley",
+        "price": 29.99,
+        "size": "L",
+        "img":"shirt.svg"
+      },
+      {"id":7,
+        "title": "Camo Print Tee",
+        "price": 24.99,
+        "size": "S",
+        "img":"shirt.svg"
+      },
+      {"id":8,
+        "title": "Pocket Tee",
+        "price": 21.99,
+        "size": "M",
+        "img":"shirt.svg"
+      },
+      {"id":8,
+        "title": "Raglan Sleeve Tee",
+        "price": 23.99,
+        "size": "L",
+        "img":"shirt.svg"
+      },
+      {
+        "id":9,
+        "title": "Vintage Wash Tee",
+        "price": 27.99,
+        "size": "XL",
+        "img":"shirt.svg"
+      }
+    ]
+  }
+  
